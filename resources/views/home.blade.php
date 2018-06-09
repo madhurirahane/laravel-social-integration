@@ -7,7 +7,6 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Dashboard
                     &nbsp; <a href="{{route('login-via-socialite')}}"> Login With Socialite</a>
-                    &nbsp; <a href="{{route('login-via-socialite')}}"> Login With Socialite</a>
                 </div>
 
                 <div class="panel-body">
